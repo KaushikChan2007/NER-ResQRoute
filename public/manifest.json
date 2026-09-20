@@ -1,0 +1,16 @@
+{
+  "name": "NER-ResQRoute",
+  "short_name": "ResQRoute",
+  "description": "Disaster-Aware GIS Logistics and Dynamic Route Intelligence Platform (SIH 2026)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1C1411",
+  "theme_color": "#A3805B",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
