@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mountain ridge silhouette (Rugged Terrain of NER) -->
+    <path
+        android:fillColor="#8C6E54"
+        android:pathData="M24,70 L40,48 L52,62 L66,42 L84,70 Z" />
+    <path
+        android:fillColor="#D4B088"
+        android:pathData="M38,52 L50,36 L64,54 L58,54 L50,44 L44,52 Z" />
+    <!-- Dynamic Rescue Route ribbon -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F5EBE6"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M28,74 C36,66 48,78 58,66 C68,54 74,60 80,50" />
+    <!-- Emergency Cross / Pin indicator -->
+    <path
+        android:fillColor="#E6A15C"
+        android:pathData="M54,22 C48,22 43,27 43,33 C43,41 54,50 54,50 C54,50 65,41 65,33 C65,27 60,22 54,22 Z" />
+    <!-- White rescue cross inside pin -->
+    <path
+        android:fillColor="#2C1B14"
+        android:pathData="M52.5,27 H55.5 V31 H59.5 V34 H55.5 V38 H52.5 V34 H48.5 V31 H52.5 Z" />
+    <!-- Pulse ring for GPS beacon -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E6A15C"
+        android:strokeWidth="1.5"
+        android:pathData="M80,50 m -5, 0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" />
+</vector>

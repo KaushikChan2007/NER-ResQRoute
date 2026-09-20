@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="315"
+                android:endX="108"
+                android:endY="108"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item android:color="#2C1B14" android:offset="0.0" />
+                <item android:color="#4A3525" android:offset="0.5" />
+                <item android:color="#6B4B32" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle topographic GIS elevation rings in background -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1AF5EBE6"
+        android:strokeWidth="1.2"
+        android:pathData="M18,34 C36,22 72,28 90,40 C100,48 94,76 78,86 C60,98 32,94 20,78 C10,64 12,42 18,34 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#12F5EBE6"
+        android:strokeWidth="1.2"
+        android:pathData="M28,42 C40,32 66,36 80,46 C88,52 84,72 70,80 C56,88 38,84 30,72 C22,60 24,48 28,42 Z" />
+</vector>
